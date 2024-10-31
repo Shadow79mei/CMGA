@@ -1,8 +1,6 @@
 absl-py @ file:///croot/absl-py_1686852429912/work
 addict==2.4.0
 affine==2.4.0
-aiohttp @ file:///croot/aiohttp_1701112538292/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 alembic==1.13.1
 antlr4-python3-runtime==4.9.3
 appdirs==1.4.4
