@@ -1,4 +1,4 @@
-# Cross-Task Meta-Learning Network With Graph-Enhanced Attention Module for Hyperspectral Change Detection
+# CMGA: Cross-Task Meta-Learning Network With Graph-Enhanced Attention Module for Hyperspectral Change Detection
 
 # Usage
 we have uploaded the pretrained parameters of the model in the folder "pre_trained_gnn". To use the model, you can simply run the following command:
